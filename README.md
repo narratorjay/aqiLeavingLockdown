@@ -1,4 +1,4 @@
-aqiLeavingLockdown
+AQI, Air Quality Index measurements, leaving lockdown
 
 ### In which
 AQI records are harvested from www.waqi.info for a geographical rectangle covering Great Britain and Ireland to compare with indices relating to pollution and public health.
